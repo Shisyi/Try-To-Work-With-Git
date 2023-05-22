@@ -1,2 +1,2 @@
 # git and learning the basic themes
-tra tra tra
+Настроил ssh keys, Делаю доп выгрузку
